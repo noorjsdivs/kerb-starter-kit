@@ -16,6 +16,15 @@ scripts/
   icons/     the scripts that build the icon font and its list of icon names
 ```
 
+## Where this fits in the course
+
+| In Video 1A | What happens |
+| --- | --- |
+| 7:51 | Lesson 1, "An empty folder", begins |
+| 9:47 | What's in this kit, and why it isn't typed |
+| 12:31 | Copy the kit into the new app |
+| 51:49 | Lesson 3 writes the icon names with `scripts/icons/gen-glyphs.js` |
+
 ## How to use it
 
 Follow lesson 1, "An empty folder". Once you've created the app and run `npm run reset-project`:
